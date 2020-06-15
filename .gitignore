@@ -1,0 +1,8 @@
+# ignore certain extentions
+**/*.bin
+
+# ignore directory and file
+.settings
+Debug
+
+
